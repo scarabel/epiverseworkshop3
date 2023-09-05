@@ -1,6 +1,6 @@
 Package: epiverseworkshop3
 Type: Package
-Title: The Title of the Project
+Title: The Reproducible of the Project
 Version: 0.0.0.9000
 Authors@R: c(
     person(given   = "Francesca",
@@ -18,4 +18,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Imports: 
     devtools,
-    here
+    here,
+    renv
